@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cbor-js": "^0.1.0",
+    "elliptic": "^6.5.4"
+  },
+  "devDependencies": {
+    "webpack": "^5.25.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
